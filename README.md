@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm MatGrdjn
 
-<!--
-**MatGrdjn/MatGrdjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in Data Science and AI, passionate about coding, technology, and continuous learning.  
+Currently exploring different languages and tools to build my skills and experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+Some technologies I am learning or enjoy experimenting with:  
+
+- Languages: Python, Java
+- Tools: Git, VSCode, Docker, Kubernetes  
+
+---
+
+## 🎯 Goals
+- Improve programming and problem-solving skills  
+- Discover modern frameworks and technologies  
+
+---
+
+## 🔗 Contact
+- Email: mathieu.grandjean@etu.imt-nord-europe.fr  
+- LinkedIn: https://www.linkedin.com/in/mathieu-grandjean/  
+---
